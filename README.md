@@ -1,6 +1,6 @@
 <div align="left">
   <a href="https://blog.huazie.com/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=热爱可抵岁月漫长！&center=false&size=32" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=热爱，可抵岁月漫长，共勉 ！&center=false&size=32" alt="Typing SVG" />
   </a>
 </div>
 

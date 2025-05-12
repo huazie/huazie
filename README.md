@@ -1,12 +1,12 @@
 <div align="left">
   <a href="https://blog.huazie.com/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=热爱，可抵岁月漫长，共勉 ！&center=false&size=32" alt="Typing SVG" />
+    <img src="中文.svg" alt="热爱，可抵岁月漫长，共勉 ！" />
   </a>
 </div>
 
 <div align="left">
   <a href="https://blog.huazie.com/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Passion outlasts time!&center=false&size=32" alt="Typing SVG" />
+    <img src="英文.svg" alt="Passion outlasts time!" />
   </a>
 </div>
 

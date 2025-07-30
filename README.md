@@ -1,21 +1,49 @@
-<div align="left">
-  <a href="https://blog.huazie.com/" target="_blank">
-    <img src="中文.svg" alt="热爱，可抵岁月漫长，共勉 ！" />
-  </a>
-</div>
+<div align="center">
+  
+  <div>
+    <a href="https://blog.huazie.com/" target="_blank">
+      <img src="中文.svg" alt="热爱，可抵岁月漫长，共勉！" height="28" />
+    </a>
+  </div>
 
-<div align="left">
-  <a href="https://blog.huazie.com/" target="_blank">
-    <img src="英文.svg" alt="Passion outlasts time!" />
-  </a>
-</div>
+  <div>
+    <a href="https://blog.huazie.com/" target="_blank">
+      <img src="英文.svg" alt="Passion outlasts time!" height="28" />
+    </a>
+  </div>
+  
+  <!-- 平台链接 -->
+  <div align="center" style="margin: 20px 0;">
+    <a href="https://github.com/huazie" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://blog.huazie.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+    </a>
+    <a href="https://huazie.blog.csdn.net" target="_blank">
+      <img src="https://img.shields.io/badge/CSDN-1DA1F2?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"/>
+    </a>
+    <a href="https://blog.51cto.com/huazie" target="_blank">
+      <img src="https://img.shields.io/badge/51CTO-0A66C2?style=for-the-badge&logo=csdn&logoColor=white" alt="51CTO"/>
+    </a>
+    <a href="mailto:huazie.lgh@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </div>
 
-<div align="left">
-  <a href="https://github.com/huazie?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=huazie&show_icons=true&theme=transparent" /> 
-  </a>
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huazie&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+  <!-- 统计卡片 - 并排布局 -->
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <div>
+      <a href="https://github.com/huazie?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api?username=huazie&show_icons=true&theme=transparent&hide_border=true" />
+      </a>
+    </div>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huazie&layout=compact&langs_count=6&hide_border=true&theme=graywhite" />
+    </div>
+  </div>
+  
+  <!-- 分隔线 -->
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  
 </div>

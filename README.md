@@ -2,13 +2,13 @@
   
   <div>
     <a href="https://blog.huazie.com/" target="_blank">
-      <img src="中文.svg" alt="热爱，可抵岁月漫长，共勉！" height="28" />
+      <img src="中文.svg" alt="热爱，可抵岁月漫长，共勉！"/>
     </a>
   </div>
 
   <div>
     <a href="https://blog.huazie.com/" target="_blank">
-      <img src="英文.svg" alt="Passion outlasts time!" height="28" />
+      <img src="英文.svg" alt="Passion outlasts time!"/>
     </a>
   </div>
   

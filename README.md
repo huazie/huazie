@@ -2,18 +2,18 @@
   
   <div>
     <a href="https://blog.huazie.com/" target="_blank">
-      <img src="中文.svg" alt="热爱，可抵岁月漫长，共勉！" height="28" />
+      <img src="中文.svg" alt="热爱，可抵岁月漫长，共勉！"/>
     </a>
   </div>
 
   <div>
     <a href="https://blog.huazie.com/" target="_blank">
-      <img src="英文.svg" alt="Passion outlasts time!" height="28" />
+      <img src="英文.svg" alt="Passion outlasts time!"/>
     </a>
   </div>
   
   <!-- 平台链接 -->
-  <div align="center" style="margin: 20px 0;">
+  <div align="center" style="margin: 20px 10px;">
     <a href="https://github.com/huazie" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
@@ -31,17 +31,20 @@
     </a>
   </div>
 
-  <!-- 统计卡片 - 并排布局 -->
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div>
-      <a href="https://github.com/huazie?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api?username=huazie&show_icons=true&theme=transparent&hide_border=true" />
-      </a>
-    </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huazie&layout=compact&langs_count=6&hide_border=true&theme=graywhite" />
-    </div>
-  </div>
+  <table align="center">
+	  <tr>
+		  <td>
+		    <a href="https://github.com/huazie?tab=repositories">
+			    <img src="https://github-readme-stats.vercel.app/api?username=huazie&show_icons=true&theme=transparent&hide_border=true" />
+		    </a>
+		  </td>
+		  <td>
+		    <a href="https://github.com/huazie?tab=repositories">
+			    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huazie&layout=compact&langs_count=6&hide_border=true&theme=graywhite" />
+		    </a>
+		  </td>
+	  </tr>
+  </table>
   
   <!-- 分隔线 -->
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />

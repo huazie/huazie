@@ -34,21 +34,15 @@
     </a>
   </div>
 
-  <table align="center">
-	<tr>
-		<td>
-		  <a href="https://github.com/huazie?tab=repositories">
-			<img src="https://github-readme-stats.vercel.app/api?username=huazie&show_icons=true&theme=transparent&hide_border=true" />
-		  </a>
-		</td>
-		<td>
-		  <a href="https://github.com/huazie?tab=repositories">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huazie&layout=compact&langs_count=6&hide_border=true&theme=graywhite" />
-		  </a>
-		</td>
-	</tr>
-  </table>
-  
+  <div>
+    <a href="https://github.com/huazie?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api?username=huazie&show_icons=true&theme=tokyonight&hide_border=true" style="height: 200px;"/>
+    </a>
+    <a href="https://github.com/huazie?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huazie&layout=compact&langs_count=6&hide_border=true&theme=vue-dark" style="height: 200px;"/>
+    </a>
+  </div>
+
   <!-- 分隔线 -->
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   

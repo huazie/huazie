@@ -36,7 +36,7 @@
 
   <div>
     <a href="https://github.com/huazie?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api?username=huazie&show_icons=true&theme=tokyonight&hide_border=true" style="height: 200px;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=huazie&show_icons=true&theme=tokyonight&hide_border=true" style="width:500px;height: 200px;"/>
     </a>
     <a href="https://github.com/huazie?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huazie&layout=compact&langs_count=6&hide_border=true&theme=vue-dark" style="height: 200px;"/>
